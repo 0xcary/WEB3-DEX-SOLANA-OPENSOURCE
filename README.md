@@ -1,5 +1,7 @@
 # SOLANA SOR SmartContract
 
+English | [简体中文](README_CN.md)
+
 ## Overview
 
 The SOLANA SOR (Smart Order Router) SmartContract repository implements a decentralized exchange (DEX) on the Solana blockchain. This project leverages the Solana Program Library (SPL) and Anchor framework to provide robust and efficient token swap functionality.
